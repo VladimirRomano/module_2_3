@@ -27,7 +27,6 @@ while 1 > 0:
                                                     print(my_list[11])
                                                     if my_list[12] >= n:
                                                         print(my_list[12])
-
-                                                    else:
-                                                        print()
-                                                        break
+                                break
+    else:
+        print()
